@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<br>
 <img border="0" height="200" src="/images/tsphoto.jpg" width="200" />
 
 
